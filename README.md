@@ -11,3 +11,16 @@ Página com uma receita culinária contendo:
 - Listas (ul e ol)
 - Imagens com descrição (alt)
 - Organização em seções temáticas
+
+🛠️ Tecnologias Utilizadas
+
+- HTML5 (semântico)
+- CSS3
+- Flexbox e Media Queries
+- Estrutura de projeto separando HTML e CSS
+
+📦 Como Visualizar
+
+1. Clone o repositório:
+```bash
+https://github.com/NatanaelSantos2/recipe-page.git
